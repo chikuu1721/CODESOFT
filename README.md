@@ -3,3 +3,5 @@ It defines a TodoList class with methods to add, delete, and mark tasks as compl
 
 Task 2 Completed Simple calculator using python.
 The code begins by displaying a menu of operations (addition, subtraction, multiplication, division) for the user to choose from. It then prompts the user to input their choice (1, 2, 3, or 4) and two numbers for the calculation. Based on the user's choice, the code executes the arithmetic operation using functions defined for addition, subtraction, multiplication, and division. It performs error checking for division by zero. Finally, it displays the result of the calculation to the user.
+
+Task 3 Completed. Password generator using python.
